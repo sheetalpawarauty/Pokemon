@@ -107,10 +107,10 @@ let pokemonRepository = (function () {
     modalTitle.innerHTML = '';
     modalBody.innerHTML = '';
 
-    let pokemonName = document.createElement('h1');
+    let pokemonName = document.createElement('h2');
     pokemonName.innerText = pokemon.name;
 
-    let pokemonId = document.createElement("h2");
+    let pokemonId = document.createElement("h3");
     pokemonId.innerText = "#" + pokemon.id.toString().padStart(3, 0);
 
     let imageElement = document.createElement('img');
