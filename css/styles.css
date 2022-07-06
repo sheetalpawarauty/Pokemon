@@ -74,7 +74,15 @@ body {
 	touch-action: 'none';
   }
 
-  .modal h1 {
+  #pokeball {
+	width: 200px;
+  }
+
+  h1, h4 {
+	color: white;
+  }
+
+  .modal h2 {
 	margin-top: 0;
   }
   
