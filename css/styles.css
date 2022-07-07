@@ -71,7 +71,7 @@ body {
 	width: 80%;
 	max-width: 468px;
 	text-align: center;
-	/* touch-action: 'none'; */
+	touch-action: 'none';
   }
 
   #pokeball {
