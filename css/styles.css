@@ -104,6 +104,6 @@ body {
 	border: none;
   }
   
-  .modal-footer .modal-header {
+  .modal-footer .modal-header .sticky-top {
 	position: fixed;
   }
