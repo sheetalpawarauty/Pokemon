@@ -104,6 +104,10 @@ body {
 	border: none;
   }
   
-  .modal-footer .modal-header .sticky-top {
+  .modal-footer .modal-header {
 	position: fixed;
+  }
+
+  .sticky-top {
+	padding: 0%;
   }
