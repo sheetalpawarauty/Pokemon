@@ -62,7 +62,7 @@ body {
   }
 
   .modal-content {
-	margin: auto;
+	margin: none;
 	display: flex;
 	justify-content: center;
 	box-sizing: border-box;
